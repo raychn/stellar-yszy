@@ -63,7 +63,7 @@ class yszfplugin(StellarPlayer.IStellarPlayerPlugin):
     
     def show(self):
         controls = self.makeLayout()
-        self.doModal('main',500,800,'',controls)        
+        self.doModal('main',500,750,'',controls)        
     
     def makeLayout(self):
         zywz_layout = [
@@ -380,7 +380,7 @@ class yszfplugin(StellarPlayer.IStellarPlayerPlugin):
                 'height':200
             }
         ]
-        result,control = self.doModal(mediainfo['medianame'],750,500,'',controls)
+        result,control = self.doModal(mediainfo['medianame'],500,750,'',controls)
 
         
     def onClickFirstPage(self, *args):

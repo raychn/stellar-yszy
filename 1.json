@@ -19,5 +19,5 @@
     {"title":"快播资源","api":"http://www.kuaibozy.com/api.php/provide/vod/","datatype":"json","search":false},
     {"title":"红牛资源","api":"https://www.hongniuzy1.com/inc/apijson_vodhnm3u8.php/provide/vod/","datatype":"json","search":false},
     {"title":"北斗星","api":"https://v8.bdxzyapi.com/inc/api.php/provide/vod/","datatype":"xml","search":false},
-    {"title":"飘花电影","api":"http://www.2mjtt.com/inc/api.php/provide/vod/","datatype":"xml","search":false}
+    {"title":"飘花电影","api":"http://www.2mjtt.com/inc/api.php/provide/vod/1111","datatype":"xml","search":false}
 ]
